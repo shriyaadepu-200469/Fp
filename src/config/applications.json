@@ -1,0 +1,26 @@
+
+{
+  "applications": [
+    {
+      "id": "app1",
+      "title": "CoreDB",
+      "description": "Core Database Management System",
+      "url": "https://coredb.example.com",
+      "icon": "Database"
+    },
+    {
+      "id": "app2",
+      "title": "Authentication Service",
+      "description": "Secure Authentication and Authorization",
+      "url": "https://auth.example.com",
+      "icon": "Key"
+    },
+    {
+      "id": "app3",
+      "title": "Document Repository",
+      "description": "Document Storage and Management",
+      "url": "https://docs.example.com",
+      "icon": "Files"
+    }
+  ]
+}
